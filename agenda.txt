@@ -1,6 +1,0 @@
-25/01/21 
-    
-    - 08:30
-    - inicio do projeto multiroom chat.
-    - estrutura de diretorios no padrão MVC
-    - download dos assets e das views
